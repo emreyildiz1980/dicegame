@@ -1,6 +1,6 @@
 import random
 
-
+# Dice Game
 def printDice(arr):
     arr_length = len(arr)
     for i in range(arr_length):
